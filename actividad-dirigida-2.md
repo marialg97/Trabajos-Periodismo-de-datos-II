@@ -30,7 +30,7 @@ Con solo dos bolas de papel arrugadas y dos cifras en la parte superior de ellas
 
 Los colores no destacan especialmente. Excepto el 2020, que es el año del que estamos hablando en el que se produjo la subida. 
 
-Su fuente es: **OPEPM **
+Su fuente es: **OPEPM**
 
 La calidad es buena y al estar en movimiento destaca mucho más que otras estáticas. 
 
