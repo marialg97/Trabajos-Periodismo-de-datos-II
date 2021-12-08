@@ -2,7 +2,7 @@
 
 Según el [Smithsonian Institution](https://volcano.si.edu/database/search_eruption_results.cfm) son **22** los volcanes que han sufrido **erupciones** en lo que llevamos de **2021** en todo el mundo.
 
-![](E:\Escritorio\DICIEMBRE\P.Datos%202\AD4\10.JPG)
+![](https://github.com/marialg97/Trabajos-Periodismo-de-datos-II/blob/main/img/10.JPG)
 
 Solo en **España** el registro total a lo largo de los años marca que han sido **83** las erupciones que han tenido lugar.
 
@@ -18,7 +18,7 @@ A pesar de no ser la comunidad autónoma con el **PIB** más bajo que sería **E
 
 Teniendo en cuenta los datos demográficos canarios (**1.151.969 personas**) el porcentaje de habitantes que se dedican a este sector es considerable.
 
-![](E:\Escritorio\DICIEMBRE\P.Datos%202\AD4\6.JPG)
+![](https://github.com/marialg97/Trabajos-Periodismo-de-datos-II/blob/main/img/6.JPG)
 
 https://datawrapper.dwcdn.net/2Y4HV/1/
 
